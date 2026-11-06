@@ -3,6 +3,7 @@
 # Jaunchun
 
 **I like to do easy stuff.**
+![jaunchun's GitHub Stats](https://vercel.app)
 
 [Website](https://codezy.kajtgorski.workers.dev/) · [Download CODEZY](https://github.com/jaunchun/Codezy/releases/latest/download/CODEZY-Setup.exe) · [npm](https://www.npmjs.com/package/codezy-cli) · [GitHub](https://github.com/jaunchun)
 

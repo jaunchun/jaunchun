@@ -1,43 +1,30 @@
-<div align="center">
+  ## About Me
 
-# Jaunchun
+A lot of what I build starts as a random thought that I decide to pursue. :D
 
-**I like to do easy stuff.**
-![jaunchun's GitHub Stats](https://vercel.app)
+I work with C++, JavaScript, Rust, and Node.js. I use Neovim, VS Code, and JetBrains tools, and I like 3D printing. 😼
 
-[Website](https://codezy.kajtgorski.workers.dev/) · [Download CODEZY](https://github.com/jaunchun/Codezy/releases/latest/download/CODEZY-Setup.exe) · [npm](https://www.npmjs.com/package/codezy-cli) · [GitHub](https://github.com/jaunchun)
-📊 GitHub Stats
+## Tech Stack
 
-"Stats" (https://github-readme-stats.vercel.app/api?username=jaunchun&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=jaunchun&layout=compact&theme=dark&hide_border=true)
+## Tools
 
-"Streak" (https://streak-stats.demolab.com?user=jaunchun&theme=dark&hide_border=true)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)
 
-🏆 Trophies
+## Projects
+I make [Codezy](https://codezy.kajtgorski.workers.dev).
+## Socials
 
-"Trophies" (https://github-profile-trophy.vercel.app/?username=kajunchun&theme=darkhub&no-frame=true&row=1)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@X_kaj0fajo)
 
-🔗 Connect
+Discord: `kajt.`
 
-""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/jaunchun)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kajtnnn@gmail.com) `kajtnnn@gmail.com`
 
----
-</div>
-
----
-
-I build **CODEZY**, a coding agent for your desktop and terminal that runs on
-the models you already have. Local Ollama by default, any OpenAI-compatible
-endpoint if you prefer. Agent / chat / plan / auto modes, real approvals, one
-palette everywhere. No account, no telemetry.
-
-[**Download for Windows →**](https://github.com/jaunchun/Codezy/releases/latest/download/CODEZY-Setup.exe)
-&nbsp;·&nbsp; [Website](https://codezy.kajtgorski.workers.dev/)
-&nbsp;·&nbsp; [Source](https://github.com/jaunchun/Codezy)
-
-**Other projects:** [Snoozy](https://github.com/jaunchun/Snoozy) — an ESP32
-console with a good battery · [MIKI-s-shop](https://github.com/jaunchun/MIKI-s-shop)
-— a low-poly horror project.
-
-`TypeScript` · `Node.js` · `Electron` · `React` · `Python` · `C++` · `ESP32` · `Ollama`
+[![Secondary Email](https://img.shields.io/badge/Secondary%20Email-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:m.janiszweski.it@proton.me) `m.janiszweski.it@proton.me`

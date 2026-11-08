@@ -18,4 +18,5 @@ I make [Codezy](https://codezy.kajtgorski.workers.dev).
 
 ## Socials
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@X_kaj0fajo)  Discord: `kajt.`  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kajtnnn@gmail.com) `kajtnnn@gmail.com`  [![Secondary Email](https://img.shields.io/badge/Secondary%20Email-6D4AFF?style=flat)](mailto:m.janiszweski.it@proton.me) `m.janiszweski.it@proton.me`
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@X_kaj0fajo)  ![Discord](https://img.shields.io/badge/-5865F2?style=flat&logo=discord&logoColor=white)  [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kajtnnn@gmail.com) [![Secondary%20Email](https://img.shields.io/badge/Secondary%20Email-6D4AFF?style=flat)](mailto:m.janiszweski.it@proton.me)
+
